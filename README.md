@@ -1,6 +1,6 @@
 ## Hi there, I'm George 👋
 
-  <img align="right" alt="GIF" src="https://raw.githubusercontent.com/g-popovic/g-popovic/main/programmer.gif" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://raw.githubusercontent.com/g-popovic/g-popovic/master/programmer.gif" width="500" height="320" />
 
 I'm a full stack web developer specializing in MERN stack development.
 
