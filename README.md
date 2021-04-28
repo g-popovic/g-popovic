@@ -6,7 +6,7 @@ I'm a full-stack/back-end web developer with lots of experience working remotely
 
 ### My Interests:
 
--   Back End Development👨‍💻
+-   Web Development👨‍💻
 -   Machine Learning🧠
 -   Cybersecurity🔐
 
