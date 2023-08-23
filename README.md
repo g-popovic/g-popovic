@@ -2,7 +2,7 @@
 
   <img align="right" alt="GIF" src="https://raw.githubusercontent.com/g-popovic/g-popovic/master/programmer.gif" width="500" height="320" />
 
-I'm a self-taught full stack developer. I created several mobile video games at 14, and AT 17 I won a hackathon and started
+I'm a self-taught full stack developer. I created several mobile video games at 14, and at 17 I won a hackathon and started
 working remotely as a developer. I co-created Bionize, a browser
 extension which transforms text to potentially make reading easier for
 people with reading impairments.
